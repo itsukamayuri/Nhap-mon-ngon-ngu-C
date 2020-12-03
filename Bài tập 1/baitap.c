@@ -11,8 +11,8 @@ int main()
      
     CV =2*R*PI;
     DT =R*R*PI;
-    printf(" nhap ban kinh r=1.5\n");
-    printf ( "CV hinh tron la: %0.1f", CV);
+    printf(" nhap ban kinh R=1.5\n");
+    printf ( "CV hinh tron la: %0.1f\n", CV);
     printf ("DT hinh tron la:%0.1f" , DT);
 	return 0;		
 }
