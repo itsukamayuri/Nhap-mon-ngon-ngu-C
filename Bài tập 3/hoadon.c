@@ -13,7 +13,7 @@ int main(void){
     int soluong, dongia, thanhtien;
     //cong thuc tinh//
     thanhtien = a * b;
-    //hien thi thanh tien ra man hinh//
+    //neu so luong lon hon5 va don gia lon hon 500//
     if(a>=5){thanhtien=(a*b)*0.5;
      a=5;}
      if(b>=500){
