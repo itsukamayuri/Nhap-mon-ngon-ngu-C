@@ -14,7 +14,10 @@ int main(void){
     //cong thuc tinh//
     thanhtien = a * b;
     //hien thi thanh tien ra man hinh//
-    printf("thanh tien"),
-    printf("= %d",thanhtien);
-  return 0;
-  }
+    if(a>=5){thanhtien=(a*b)*0.5;
+     a=5;}
+     if(b>=500){
+    b=500;
+    printf("thanhtien=%d",thanhtien);}
+  
+  return 0;}
