@@ -6,11 +6,11 @@ int main(void){
   //nhap gia tri//
   scanf("%d",&a);
   //khai bao don gia //
-    printf("nhap don gia");
+   printf("nhap don gia");
     //nhap gia tri b//
     scanf("%d",&b);
     //khai bao bien//
-    int soluong, giatri, thanhtien;
+    int soluong, dongia, thanhtien;
     //cong thuc tinh//
     thanhtien = a * b;
     //hien thi thanh tien ra man hinh//
