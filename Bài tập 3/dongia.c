@@ -3,7 +3,7 @@ int main(void){
   int a,b ;
   //khai bao so luong //
   printf("nhap so luong");
-  //nhap gia tria//
+  //nhap gia tri//
   scanf("%d",&a);
   //khai bao don gia //
     printf("nhap don gia");
