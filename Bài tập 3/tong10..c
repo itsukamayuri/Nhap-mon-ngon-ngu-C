@@ -5,9 +5,10 @@ int main(void){
   // cho tong=0
   tong =0;
   //khai bao bien i
-  int i;
+  int i,n;
+  scanf("%d",%n):
   //khai bao vong lap
-  for(i=1;i<=10;i ++ )
+  for(i=1;i<=n;i ++ )
   //cong thuc tinh
   tong = tong + i;
   // hien thi ra man hinh
