@@ -8,10 +8,11 @@ for(i=0;i<4;i++)
 {//hien thi mang
 	printf("%d\n",marks[i]);
 }
-int tong;
+int tong=0;
+for(i=0;i<4;i++){
 // cong thuc
-tong=3+5+7+2;
+tong= tong + marks[i];
 // hien thi ket qua ra man hinh
-printf("tong=%d",tong);
+printf("tong=%d",tong);}
 return 0;
 }
