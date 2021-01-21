@@ -1,15 +1,15 @@
 #include <stdio.h>
 int main() {
 	//khai bao bien
-int i;
+int c;
  //khai bao vong lap
- for  (i = 1; i < 11 ; ++i)
+ for  (i = 1; i < 11 ; ++c)
  //hien thi ra man hinh
- printf("%d  ",i);
+ printf("%d  ",c);
  //khai bao vong lap
- for  (i = 1; i < 11 ; ++i)
+ for  (c = 1; c < 11 ; ++c)
  //hien thi ra man hinh
- printf("%d\n", i);
+ printf("%d\n", c);
  
  
  
