@@ -1,0 +1,12 @@
+#include <stdio.h>
+int main(){
+  int n;
+  float tong=0;
+  printf("nhap so lon hon 0=");
+  scanf("%d",&n);
+  for (int i=1;i<=n;i++){
+    tong+=(float)1/i;
+  }
+ printf("s=%f",tong);
+ return 0;
+}
